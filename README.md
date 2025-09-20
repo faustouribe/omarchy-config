@@ -1,0 +1,2 @@
+# omarchy-config
+Configure Omarchy
