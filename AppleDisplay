@@ -1,7 +1,14 @@
-setup/monitors.conf
+setup -> monitors.conf
 env = GDK_SCALE,2
 monitor=,preferred,auto,1.33333
 
 .config/alacritty/alacritty.toml
 [font]
 size=12
+
+setup -> config -> waybar (config.jsonc)
+"height": 36,
+
+.config/waybar/style.css
+font-size: 18px;
+
