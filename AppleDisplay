@@ -1,0 +1,7 @@
+setup/monitors.conf
+env = GDK_SCALE,2
+monitor=,preferred,auto,1.33333
+
+.config/alacritty/alacritty.toml
+[font]
+size=12
