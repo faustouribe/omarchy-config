@@ -1,0 +1,8 @@
+.config/watbar/config.jsonc
+
+"clock": {
+    "format":"{:%A %B %d, %I:%M %p}",
+    "format-alt": "{:L%d %B W%V %Y}",
+    "tooltip": false,
+    "on-click-right": "omarchy-launch-floating-terminal-with-presentation omarchy-tz-select"
+  },
